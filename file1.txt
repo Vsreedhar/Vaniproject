@@ -1,0 +1,11 @@
+ am Vani. Writing few words in order to be saved in file1.txt file
+thanks, please save:wq
+wq
+wq!
+wq1
+:wq!
+q!
+q!
+q!
+wtypave my changes
+e!
