@@ -1,2 +1,3 @@
-dding few phrases for file3 under 2nd server that has cloned the files from the first server except for file3, which was newly creeated in server 2.
+adding few phraseor from first server now so that ther eis a combination of changes from both the servers.
+file3 under 2nd server that has cloned the files from the first server except for file3, which was newly creeated in server 2.
 
